@@ -21,6 +21,8 @@
 
 [![Build Status](https://travis-ci.org/apache/cordova-plugin-file-transfer.svg)](https://travis-ci.org/apache/cordova-plugin-file-transfer)
 
+NOTE: src/android/FileTransfer.java has been updated to support CrosswalkCookieManager.
+
 Plugin documentation: [doc/index.md](doc/index.md)
 
 This plugin allows you to upload and download files.
